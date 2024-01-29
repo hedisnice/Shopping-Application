@@ -1,0 +1,47 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 5px;
+  margin: 10px 80px;
+  padding: 10px;
+}
+img {
+  width: 170px;
+  height: 120px;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+.name {
+  width: 300px;
+  margin-right: 10px;
+  color: #001845;
+  font-weight: bold;
+}
+.price {
+  color: #ff6700;
+  font-weight: bold;
+}
+.quantity {
+  margin-right: 60px;
+  font-size: 20px;
+}
+input {
+  border: none;
+  text-align: center;
+  width: 32px;
+  font-size: 15px;
+}
+button {
+  border: none;
+  background: #941b0c;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.delete-product {
+  margin-right: 20px;
+}

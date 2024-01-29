@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100vw;
+  margin: auto;
+  padding: 20px 50px 20px 50px;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #032b43;
+}
+header h3 {
+  color: #240046;
+}
